@@ -1,9 +1,10 @@
 body {
-  width: 100%;
+  width: 50%;
   height: 100%;
-  margin: 0;
+  margin: auto;
 }
 
+/*
 h1 {
   position: relative;
   left: 400px;
@@ -13,3 +14,4 @@ h1 {
   position: relative;
   left: 300px;
 }
+*/
