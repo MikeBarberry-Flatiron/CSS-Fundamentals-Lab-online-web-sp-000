@@ -5,6 +5,12 @@ body {
   text-align: center;
 }
 
+.navbar {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
 /*
 h1 {
   position: relative;
